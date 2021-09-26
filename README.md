@@ -2,7 +2,7 @@
 
 'Machine learning approach to the recognization of nanobubbles in graphene' 
 
-by T. Song, N. Myoung, H. Lee, and H. C. Park, submitted.
+             by T. Song, N. Myoung, H. Lee, and H. C. Park, submitted.
 
 
 
